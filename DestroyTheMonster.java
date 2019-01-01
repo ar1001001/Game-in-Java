@@ -7,11 +7,11 @@ public class DestroyTheMonster {
 		int userRoom = rand.nextInt(4);
 		int gunRoom = rand.nextInt(4);
 		boolean userIsArmed = false;
-		int countdown = 5;
+		int countdown = 7;
 		System.out.println("You are standing in an abandoned building.");
 		System.out.println("You have " + countdown + " minutes before monster wakes up...");
 		if(countdown==0){
-			System.out.println("“OH MY GOD THE MONSTER! IT GOT YOU!!!!");
+			System.out.println("â€œOH MY GOD THE MONSTER! IT GOT YOU!!!!");
 			System.out.println("Game over.");
 			System.exit(0);
 		}
@@ -67,7 +67,7 @@ public class DestroyTheMonster {
 		System.out.println("You are standing in an abandoned building.");
 		System.out.println("You have " + countdown + " minutes before monster wakes up...");
 		if(countdown==0){
-			System.out.println("“OH MY GOD THE MONSTER! IT GOT YOU!!!!");
+			System.out.println("â€œOH MY GOD THE MONSTER! IT GOT YOU!!!!");
 			System.out.println("Game over.");
 			System.exit(0);
 		}
@@ -122,7 +122,7 @@ public class DestroyTheMonster {
 		System.out.println("You are standing in an abandoned building.");
 		System.out.println("You have " + countdown + " minutes before monster wakes up...");
 		if(countdown==0){
-			System.out.println("“OH MY GOD THE MONSTER! IT GOT YOU!!!!");
+			System.out.println("â€œOH MY GOD THE MONSTER! IT GOT YOU!!!!");
 			System.out.println("Game over.");
 			System.exit(0);
 		}
@@ -177,7 +177,7 @@ public class DestroyTheMonster {
 		System.out.println("You are standing in an abandoned building.");
 		System.out.println("You have " + countdown + " minutes before monster wakes up...");
 		if(countdown==0){
-			System.out.println("“OH MY GOD THE MONSTER! IT GOT YOU!!!!");
+			System.out.println("â€œOH MY GOD THE MONSTER! IT GOT YOU!!!!");
 			System.out.println("Game over.");
 			System.exit(0);
 		}
@@ -232,7 +232,7 @@ public class DestroyTheMonster {
 		System.out.println("You are standing in an abandoned building.");
 		System.out.println("You have " + countdown + " minutes before monster wakes up...");
 		if(countdown==0){
-			System.out.println("“OH MY GOD THE MONSTER! IT GOT YOU!!!!");
+			System.out.println("â€œOH MY GOD THE MONSTER! IT GOT YOU!!!!");
 			System.out.println("Game over.");
 			System.exit(0);
 		}
@@ -287,7 +287,7 @@ public class DestroyTheMonster {
 		System.out.println("You are standing in an abandoned building.");
 		System.out.println("You have " + countdown + " minutes before monster wakes up...");
 		if(countdown==0){
-			System.out.println("“OH MY GOD THE MONSTER! IT GOT YOU!!!!");
+			System.out.println("â€œOH MY GOD THE MONSTER! IT GOT YOU!!!!");
 			System.out.println("Game over.");
 			System.exit(0);
 		}
